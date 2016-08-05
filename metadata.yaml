@@ -1,0 +1,36 @@
+_repo: Barriers-Burned-Away_6627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roe, Edward Payson
+    alias: Roe, E. P. (Edward Payson)
+    birthdate: 1838
+    deathdate: 1888
+    gutenberg_agent_id: '858'
+    url: http://www.gutenberg.org/2009/agents/858
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Payson_Roe
+description: Protagonist Dennis Fleet yearns not only for the hand of Christine Ludolph,
+  but also for her soul, since she is a non-believer. The beautiful Christine looks
+  down on Dennis and toys with his feelings, for in her eyes he has nothing to compare
+  to her refined European background. But the fire eventually fixes everything, revealing
+  to Christine Dennis's higher nobility and converting her both to him and his God.
+  Dennis, who has just witnessed the death of Christine's father when Baron Ludolph
+  foolishly tried to save valuable papers from his downtown art gallery, makes his
+  way to the North Division in order to find Christine.
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Fires -- Fiction'
+- !lcsh 'Chicago (Ill.) -- History -- To 1875 -- Fiction'
+- !lcsh 'Great Fire, Chicago, Ill., 1871 -- Fiction'
+- GITenberg
+title: Barriers Burned Away
+url: http://www.gutenberg.org/ebooks/6627
