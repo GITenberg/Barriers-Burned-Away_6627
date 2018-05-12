@@ -1,5 +1,8 @@
 _repo: Barriers-Burned-Away_6627
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roe, Edward Payson
@@ -17,6 +20,8 @@ description: Protagonist Dennis Fleet yearns not only for the hand of Christine 
   Dennis, who has just witnessed the death of Christine's father when Baron Ludolph
   foolishly tried to save valuable papers from his downtown art gallery, makes his
   way to the North Division in order to find Christine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6627#Barriers-Burned-Away
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
